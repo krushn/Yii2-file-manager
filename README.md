@@ -7,6 +7,7 @@ INSTALLATION
 2) Access index.php?r=upload/index
 
 
+
 Contact details
 
 Skype: kathrecha.krushn
