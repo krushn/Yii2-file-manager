@@ -8,8 +8,9 @@ INSTALLATION
 
 
 
-Contact details
 
+Contact details
+-------------------------- 
 Skype: kathrecha.krushn
 
 Gmail: kathrechakrushn@gmail.com, me@iamkrushn.com
