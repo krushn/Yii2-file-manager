@@ -3,6 +3,7 @@
 INSTALLATION 
 -------------------------- 
 1) Extract to Yii2 application root 
+
 2) Access index.php?r=upload/index
 
 
